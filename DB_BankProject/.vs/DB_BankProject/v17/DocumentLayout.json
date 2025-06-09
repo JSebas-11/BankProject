@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\juans\\Documents\\Programar\\Git\\ProyectoBanco\\DB_BankProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DEEF2DF0-EEC0-43E4-B843-D6713EDAC937}|DB_BankProject\\DB_BankProject.csproj|c:\\users\\juans\\documents\\programar\\git\\proyectobanco\\db_bankproject\\db_bankproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEEF2DF0-EEC0-43E4-B843-D6713EDAC937}|DB_BankProject\\DB_BankProject.csproj|solutionrelative:db_bankproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEEF2DF0-EEC0-43E4-B843-D6713EDAC937}|DB_BankProject\\DB_BankProject.csproj|c:\\users\\juans\\documents\\programar\\git\\proyectobanco\\db_bankproject\\db_bankproject\\modelsnative\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEEF2DF0-EEC0-43E4-B843-D6713EDAC937}|DB_BankProject\\DB_BankProject.csproj|solutionrelative:db_bankproject\\modelsnative\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEEF2DF0-EEC0-43E4-B843-D6713EDAC937}|DB_BankProject\\DB_BankProject.csproj|c:\\users\\juans\\documents\\programar\\git\\proyectobanco\\db_bankproject\\db_bankproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DEEF2DF0-EEC0-43E4-B843-D6713EDAC937}|DB_BankProject\\DB_BankProject.csproj|solutionrelative:db_bankproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEEF2DF0-EEC0-43E4-B843-D6713EDAC937}|DB_BankProject\\DB_BankProject.csproj|c:\\users\\juans\\documents\\programar\\git\\proyectobanco\\db_bankproject\\db_bankproject\\modelsdb\\adminaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEEF2DF0-EEC0-43E4-B843-D6713EDAC937}|DB_BankProject\\DB_BankProject.csproj|solutionrelative:db_bankproject\\modelsdb\\adminaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEEF2DF0-EEC0-43E4-B843-D6713EDAC937}|DB_BankProject\\DB_BankProject.csproj|c:\\users\\juans\\documents\\programar\\git\\proyectobanco\\db_bankproject\\db_bankproject\\modelsdb\\bankprojectcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEEF2DF0-EEC0-43E4-B843-D6713EDAC937}|DB_BankProject\\DB_BankProject.csproj|solutionrelative:db_bankproject\\modelsdb\\bankprojectcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEEF2DF0-EEC0-43E4-B843-D6713EDAC937}|DB_BankProject\\DB_BankProject.csproj|c:\\users\\juans\\documents\\programar\\git\\proyectobanco\\db_bankproject\\db_bankproject\\modelsdb\\useraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEEF2DF0-EEC0-43E4-B843-D6713EDAC937}|DB_BankProject\\DB_BankProject.csproj|solutionrelative:db_bankproject\\modelsdb\\useraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Data.cs",
+              "DocumentMoniker": "C:\\Users\\juans\\Documents\\Programar\\Git\\ProyectoBanco\\DB_BankProject\\DB_BankProject\\ModelsNative\\Data.cs",
+              "RelativeDocumentMoniker": "DB_BankProject\\ModelsNative\\Data.cs",
+              "ToolTip": "C:\\Users\\juans\\Documents\\Programar\\Git\\ProyectoBanco\\DB_BankProject\\DB_BankProject\\ModelsNative\\Data.cs",
+              "RelativeToolTip": "DB_BankProject\\ModelsNative\\Data.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAADwvxsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T03:10:12.035Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\juans\\Documents\\Programar\\Git\\ProyectoBanco\\DB_BankProject\\DB_BankProject\\appsettings.json",
+              "RelativeDocumentMoniker": "DB_BankProject\\appsettings.json",
+              "ToolTip": "C:\\Users\\juans\\Documents\\Programar\\Git\\ProyectoBanco\\DB_BankProject\\DB_BankProject\\appsettings.json",
+              "RelativeToolTip": "DB_BankProject\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-09T17:05:48.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminAccount.cs",
+              "DocumentMoniker": "C:\\Users\\juans\\Documents\\Programar\\Git\\ProyectoBanco\\DB_BankProject\\DB_BankProject\\ModelsDB\\AdminAccount.cs",
+              "RelativeDocumentMoniker": "DB_BankProject\\ModelsDB\\AdminAccount.cs",
+              "ToolTip": "C:\\Users\\juans\\Documents\\Programar\\Git\\ProyectoBanco\\DB_BankProject\\DB_BankProject\\ModelsDB\\AdminAccount.cs",
+              "RelativeToolTip": "DB_BankProject\\ModelsDB\\AdminAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T17:04:48.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BankProjectContext.cs",
+              "DocumentMoniker": "C:\\Users\\juans\\Documents\\Programar\\Git\\ProyectoBanco\\DB_BankProject\\DB_BankProject\\ModelsDB\\BankProjectContext.cs",
+              "RelativeDocumentMoniker": "DB_BankProject\\ModelsDB\\BankProjectContext.cs",
+              "ToolTip": "C:\\Users\\juans\\Documents\\Programar\\Git\\ProyectoBanco\\DB_BankProject\\DB_BankProject\\ModelsDB\\BankProjectContext.cs",
+              "RelativeToolTip": "DB_BankProject\\ModelsDB\\BankProjectContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA0wMEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T20:53:36.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserAccount.cs",
+              "DocumentMoniker": "C:\\Users\\juans\\Documents\\Programar\\Git\\ProyectoBanco\\DB_BankProject\\DB_BankProject\\ModelsDB\\UserAccount.cs",
+              "RelativeDocumentMoniker": "DB_BankProject\\ModelsDB\\UserAccount.cs",
+              "ToolTip": "C:\\Users\\juans\\Documents\\Programar\\Git\\ProyectoBanco\\DB_BankProject\\DB_BankProject\\ModelsDB\\UserAccount.cs",
+              "RelativeToolTip": "DB_BankProject\\ModelsDB\\UserAccount.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T20:53:04.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\juans\\Documents\\Programar\\Git\\ProyectoBanco\\DB_BankProject\\DB_BankProject\\Program.cs",
+              "RelativeDocumentMoniker": "DB_BankProject\\Program.cs",
+              "ToolTip": "C:\\Users\\juans\\Documents\\Programar\\Git\\ProyectoBanco\\DB_BankProject\\DB_BankProject\\Program.cs",
+              "RelativeToolTip": "DB_BankProject\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T22:09:09.069Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
