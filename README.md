@@ -17,7 +17,8 @@ base de datos SQL Server para funcionamiento en local.
 
 ### 1 Clonar o descargar el repositorio
 ### 2 Ir a SQLServer y ejecutar el script "_01Desing.sql"
-### 3 Ir a archivo "appsettings.json" y añadir tu conexion SQLServer a linea "DefaultConnection"
+### 3 Ir a archivo "appsettings.json" y añadir a linea "DefaultConnection" lo siguiente:
+    "Server={Tu conexion de servidor},{TCP/IP port};Database=BankProject;Trusted_Connection=True;TrustServerCertificate=True"
 ### 4 Abrir solucion en Visual Studio y probar el proyecto
 ### 5 Acceso a usuario administrador, Numero: "1111111111" - Contraseña: "sudo"
 
