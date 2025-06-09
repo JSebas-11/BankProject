@@ -9,6 +9,7 @@ base de datos SQL Server para funcionamiento en local.
 - Depósitos, retiros, transferencias y inversiones en CDTs
 - Consulta de movimientos
 - Encriptado de contraseñas
+- Al poner numero y contraseña la aplicacion iniciara como admin o user dependiendo los datos ingresados
 - Comprobacion de datos y formatos correctos en inputs de los diferentes formularios
 
 ---
